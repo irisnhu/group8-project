@@ -1,0 +1,131 @@
+[33mb8ff76e5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/log-rate-limit[m[33m, [m[1;31morigin/feature/log-rate-limit[m[33m)[m Thêm logging và rate limiting
+[33m4cf60148[m Thêm Redux và Protected Routes
+[33mb4d58da6[m[33m ([m[1;32mmain[m[33m)[m Merge pull request #51 from NLinh2004/backend-admin
+[33m2257cd93[m[33m ([m[1;31morigin/backend-admin[m[33m)[m Add upload avatar feature
+[33m79445576[m Merge pull request #50 from NLinh2004/backend-admin
+[33m298e8487[m Merge branch 'main' into backend-admin
+[33m998b00b4[m Thêm route admin kiểm tra quyền và lấy danh sách user
+[33mb9c260f0[m Merge pull request #49 from frontend-auth
+[33mfd55c473[m[33m ([m[1;31morigin/frontend-auth[m[33m)[m feat: tạo giao diẹn và ket nối api để hiẻn thị và cập nhật thông tin profile
+[33m2b26315f[m sua loi login
+[33m92a4ccb8[m Merge branch 'main' of https://github.com/NLinh2004/group8-project into frontend-auth
+[33mc95b87ef[m[33m ([m[1;31morigin/frontend-profile[m[33m)[m Merge pull request #47 from NLinh2004/backend-auth
+[33mc10440a3[m[33m ([m[1;31morigin/backend-auth[m[33m)[m Merge branch 'main' into backend-auth
+[33me67fed3e[m Thêm chức năng Profile (GET, PUT) và middleware xác thực
+[33m9a1551aa[m feat: them form cập nhật thông thin profile
+[33mad47ac0a[m feat: giao diện của profile - tạm
+[33m4e2d8e65[m Thêm chức năng ghi nhớ đăng nhập
+[33macda5dce[m Merge pull request #46 from frontend-auth
+[33m859693ef[m feat: kết nối API với backend thành công
+[33mc45be744[m Merge pull request #45 from frontend-auth
+[33m6c3b3d4f[m feat: Sua loi giao dien
+[33mf101a83d[m Merge pull request #44 from NLinh2004/backend-auth
+[33mf7c0afcb[m Hoàn thành API /signup, /login, /logout cho hoạt động 1
+[33m06e18b61[m Merge pull request #43 from NLinh2004/backend-auth
+[33m48972451[m Merge branch 'main' into backend-auth
+[33me816ecd0[m fix: sua controller trong backend
+[33m0881919f[m Merge pull request #42 from NLinh2004/frontend-auth
+[33m70111797[m feat: tao giao dien SignUp va Login
+[33m2136a113[m Merge pull request #41 from NLinh2004/backend-auth
+[33m38c6e49f[m SV1 Backend Auth 100%: - routes/authRoutes.js (signup/login/logout) - server.js (import auth routes) - package.json (bcryptjs + jsonwebtoken)
+[33m06c8bf22[m[33m ([m[1;31morigin/frontend[m[33m)[m Khoi dong buoi 5
+[33m94f40a7d[m Merge pull request #39 from NLinh2004/frontend
+[33m76223f04[m xoa thuw muc thua
+[33m4aaa5c91[m Merge pull request #38 from NLinh2004/database
+[33mdc1f5f61[m[33m ([m[1;31morigin/database[m[33m)[m Update README.md
+[33m64ef9934[m Merge pull request #37 from irisnhu/frontend into main bản cuối
+[33m9421154c[m Bản cuối của frontend
+[33m74b4f67f[m Merge pull request #34 from NLinh2004/database
+[33mf5fa90b3[m Merge branch 'main' into database
+[33mc2d2d172[m Merge pull request #36 from irisnhu/frontend into main
+[33meacd065d[m Merge branch 'main' into frontend
+[33m7baaa4ca[m Merge pull request #35 from NLinh2004/backend
+[33md012f081[m[33m ([m[1;31morigin/backend[m[33m)[m Merge branch 'main' into backend
+[33mb80e6907[m Thêm README mô tả vai trò của An – Database
+[33mfb611e04[m Lưu thay đổi tạm thời trước khi chuyển sang backend
+[33m0f597735[m Tao xung dot khi mergge voi backend
+[33mfe9dabdd[m Cập nhật README và App.js trong nhánh backend
+[33m0a2eda81[m Merge branch 'backend' into frontend
+[33mafdd6b02[m Sua file App.js
+[33mdc0091fd[m Cập nhật App.js trong nhánh backend
+[33mdb344850[m Tao xung dot khi mergge voi backend
+[33m701b7ab1[m Cập nhật README ở nhánh backend
+[33m39a713a8[m Merge pull request #32 from irisnhu/frontend
+[33mb66188ba[m fix, feat: sửa lỗi và cập nhật thêm tính năng xóa tất cả người dùng
+[33mda88062b[m Merge pull request #31 from NLinh2004/frontend
+[33mdf351452[m Merge branch 'main' into frontend
+[33m40ca1e0f[m Merge pull request #30 from NLinh2004/feature/frontend-update
+[33m94a23879[m Merge branch 'frontend' into feature/frontend-update
+[33mfab6d428[m Merge pull request #29 from NLinh2004/frontend
+[33m31d5900f[m update: code mới lên nhánh frontend tam
+[33mafe8702f[m fix: sua loi khi thêm, sửa, xóa trên giao diện
+[33m1b43fe7a[m Merge pull request #28 from NLinh2004/frontend
+[33m8a3bff53[m Thêm validation form và quản lý state nâng cao
+[33ma378754e[m Merge pull request #27 from irisnhu/frontend
+[33mfd872601[m fix: điều chỉnh thêm CRUD
+[33mdec26587[m fix: Điều chỉnh CRUD
+[33mac02f273[m feat: Thêm chức năng Sửa/Xóa user trên React
+[33m62fad6fd[m Merge pull request #26 from NLinh2004/frontend
+[33m3b044720[m Cập nhật code React (frontend/src)
+[33m6a1d2dcd[m Merge pull request #25 from NLinh2004/backend
+[33m9376d7f5[m Thêm file server.js
+[33mdcd5f96d[m Cập nhật server.js
+[33mf5342620[m Merge pull request #24 from NLinh2004/backend
+[33m6f83a448[m add env for group use
+[33m81a34965[m Merge pull request #23 from NLinh2004/frontend
+[33m81e0285c[m feat: sua loi hien thi ds cho frontend
+[33med4718f8[m Merge pull request #22 from irisnhu/frontend
+[33mca15b58a[m delete: file frontend/src/AddUser.jsx do trung
+[33m07bfdf76[m feat: sua AddUser de hien thi du lieu 3 thuoc tinh nguoi dung
+[33m44704a7d[m Merge pull request #20 from NLinh2004/backend
+[33mbf7d855f[m Merge pull request #21 from NLinh2004/frontend
+[33m40b28432[m Cập nhật
+[33m0a03e3d9[m Xóa cache và node_modules khỏi repo
+[33m0a64b0be[m Xóa node_modules khỏi Git tracking
+[33m881bd4d2[m Merge pull request #19 from NLinh2004/frontend
+[33m238b124c[m Sửa conlict trong gitignore
+[33m35f6ee60[m Thêm các file không cần đưa lên git
+[33m2c9e27f5[m Update package-lock.json
+[33m3391ae4a[m Update package.json
+[33m596fec7b[m Cập nhật API user
+[33mfc19f514[m Cập nhật model User với 4 thuộc tính
+[33m25da42a3[m Cập nhật packege.json
+[33m59f87295[m fix(backend): sửa lỗi không chạy được server do thiếu cấu hình ES module trong package.json
+[33m47a2a78e[m Merge pull request #16 from frontend
+[33m6c1fadb2[m Merge branch 'main' of https://github.com/NLinh2004/group8-project into frontend
+[33mc0090429[m feat: sua file AddUser và UserList
+[33m982c7bed[m Merge pull request #14 revert-6-database do tạo PR nhầm nhánh
+[33me6c4f8ea[m[33m ([m[1;31morigin/revert-6-database[m[33m)[m Revert "Tích hợp MongoDB Atlas: model + controller + kết nối"
+[33m3b02e320[m Merge pull request #13 revert-4-backend do tạo PR nhầm nhánh
+[33m4025a16f[m[33m ([m[1;31morigin/revert-4-backend[m[33m)[m Revert "Backend"
+[33m54dbecaa[m Merge pull request #12 revert-3-main từ Nhu Cương do nhầm
+[33mbb36e5e3[m[33m ([m[1;31morigin/revert-3-main[m[33m)[m Revert "Merge pull request #1 from branch frontend of Nhu Cuong"
+[33m175c0970[m Merge pull request #11 from NLinh2004/backend
+[33m6cea5ef2[m Thêm API PUT/DELETE cho User
+[33mc6139cfe[m Merge pull request #10 from NLinh2004/backend
+[33mde67949f[m Merge pull request #9 from NLinh2004/backend sau khi test GET, POST
+[33m3b89ebd2[m Merge branch 'backend' of https://github.com/NLinh2004/group8-project into backend
+[33m838ddff4[m Merge branch 'main' of https://github.com/NLinh2004/group8-project into backend
+[33m8c2eb6dc[m Merge pull request #8 from NLinh2004/frontend
+[33mbb064fb9[m Merge pull request #7 from NLinh2004/database
+[33m9fa4d6bc[m Merge branch 'backend' into database
+[33m96d301e1[m Merge pull request #6 from NLinh2004/database
+[33m565bc787[m Merge pull request #5 from NLinh2004/frontend
+[33mc12d891a[m Merge branch 'frontend' of https://github.com/NLinh2004/group8-project into frontend
+[33m5747e28c[m Merge branch 'backend' of https://github.com/NLinh2004/group8-project into frontend
+[33m5f7a658f[m Merge pull request #3 from frontend
+[33mcebb9d7d[m Lưu thay đổi tạm thời trước khi chuyển sang nhánh database
+[33m16d26560[m Lưu thay đổi tạm thời trước khi chuyển sang backend
+[33m94ca57dc[m Tích hợp MongoDB Atlas: model + controller + kết nối
+[33m8121013e[m Tích hợp MongoDB Atlas: model + controller + kết nối
+[33m9cfa2610[m Thêm API GET/POST User (Sinh viên 1)
+[33mba4873a6[m Merge pull request #1 from branch frontend of Nhu Cuong
+[33mc31b6c57[m Merge branch 'main' of https://github.com/NLinh2004/group8-project into frontend
+[33m4449e3c8[m feat: update frontend layout
+[33m56964c44[m docs: them file README_cuong.md vai trò frontend
+[33mafd28c57[m docs(readme): thêm mô tả vai trò sinh viên 1 (backend)
+[33mb40fe772[m docs: them file README_cuong.md vai trò frontend
+[33m9db2fdfd[m Delete README_Linh.md from main branch
+[33m55b3c0c8[m Delete README_Linh.md
+[33mbb5f90e6[m Initialize main branch
+[33m3c472198[m Initialize backend branch

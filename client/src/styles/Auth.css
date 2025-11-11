@@ -1,0 +1,127 @@
+/* ===== Toàn cục ===== */
+.auth-page {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 80px;
+}
+
+/* ===== Khung ngoài ===== */
+.auth-container {
+  display: flex;
+  width: 900px;
+  height: 850px;
+  background-color: #fff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+/* ===== Phần trái (form) ===== */
+.auth-left {
+  flex: 1;
+  padding: 600px;
+}
+
+.auth-left h1 {
+  color: #4a148c;
+  margin-bottom: 30px;
+}
+
+.auth-left label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 500;
+  color: #333;
+}
+
+.auth-left input {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  outline: none;
+  font-size: 14px;
+  color: #333;
+  background-color: #f9f9f9;
+  transition: 0.3s;
+}
+
+.auth-left input:focus {
+  border-color: #974fb6;
+}
+
+.auth-password-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.auth-password-group div {
+  width: 45%;
+}
+
+/* ===== Nút đăng ký / đăng nhập ===== */
+.auth-button {
+  margin-top: 40px;
+  width: 100%;
+  padding: 14px;
+  background: #3d0a7c;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.auth-button:hover {
+  background: #3f0b5f;
+}
+
+/* ===== Thông báo và link ===== */
+.auth-message {
+  color: #4a148c;
+  margin-top: 10px;
+}
+
+.auth-link {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.auth-link a {
+  color: #27094c;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.auth-link a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Phần phải (màu nền gradient) ===== */
+.auth-right {
+  flex: 1;
+  background: linear-gradient(135deg, #400f7d, #942ec0, #9c27b0, #ba68c8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-left-radius: 80px;
+}
+
+.auth-right-inner {
+  width: 80%;
+  height: 80%;
+  border-radius: 20px;
+  background: linear-gradient(
+    160deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(0, 0, 0, 0.2)
+  );
+}
